@@ -1,0 +1,4 @@
+event_type,daily_segments,downtime_hours,cost_ngn
+Cleaning,448,224.0,7798400.0
+Grid outage,527,2476.432,0.0
+Inverter fault,257,2437.34,19261907.65

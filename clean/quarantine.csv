@@ -1,0 +1,41 @@
+reading_id,asset_id,weather_id,date,energy_kwh,module_temp_c,operating_hours,days_since_cleaning,status,reason
+1012,4,253,2024-02-12,-993.392,44.36,12.0,25,operating,Negative energy
+10179,3,2545,2025-02-28,-818.14,45.18,12.0,14,operating,Negative energy
+10202,2,2551,2025-03-01,-1007.752,44.6,12.0,6,operating,Negative energy
+11614,101614,2904,2025-04-28,1438.004,57.81,12.0,3,operating,Unknown asset
+11704,16,2926,2025-05-02,99999.0,43.7,12.0,10,operating,Above daily physical bound
+12131,102131,3033,2025-05-20,997.888,48.32,12.0,25,operating,Unknown asset
+12139,102139,3035,2025-05-20,958.314,45.53,12.0,4,operating,Unknown asset
+13735,103735,3434,2025-07-26,498.241,35.98,12.0,43,operating,Unknown asset
+13896,24,3474,2025-08-01,99999.0,43.7,12.0,38,operating,Above daily physical bound
+14025,9,3507,2025-08-07,-406.861,31.57,11.5,0,maintenance,Negative energy
+15384,24,3846,2025-10-02,-888.0,45.29,12.0,39,operating,Negative energy
+1569,9,393,2024-03-06,-510.789,42.62,12.0,22,operating,Negative energy
+15756,12,3939,2025-10-18,99999.0,44.4,12.0,8,operating,Above daily physical bound
+15951,105951,3988,2025-10-26,810.691,45.02,12.0,21,operating,Unknown asset
+16539,3,4135,2025-11-20,-644.882,37.89,12.0,8,operating,Negative energy
+17020,107020,4255,2025-12-10,1265.85,42.8,11.5,0,maintenance,Unknown asset
+17276,20,4319,2025-12-20,-1430.184,53.66,12.0,5,operating,Negative energy
+17359,7,4340,2025-12-24,-738.513,42.61,12.0,14,operating,Negative energy
+17423,23,4356,2025-12-26,-1206.684,51.73,12.0,11,operating,Negative energy
+17486,107486,4372,2025-12-29,786.232,43.11,12.0,9,operating,Unknown asset
+2855,23,714,2024-04-28,-887.387,45.06,12.0,6,operating,Negative energy
+31,7,8,2024-01-02,-726.595,43.63,12.0,13,operating,Negative energy
+3248,8,812,2024-05-15,-573.476,40.78,12.0,4,operating,Negative energy
+3578,2,895,2024-05-29,99999.0,39.94,11.5,0,maintenance,Above daily physical bound
+3800,8,950,2024-06-07,99999.0,44.94,12.0,27,operating,Above daily physical bound
+3877,13,970,2024-06-10,-927.161,44.94,12.0,53,operating,Negative energy
+4628,20,1157,2024-07-11,99999.0,56.52,7.283,18,outage,Above daily physical bound
+4725,21,1182,2024-07-15,99999.0,41.83,12.0,20,operating,Above daily physical bound
+4886,14,1222,2024-07-22,-753.211,42.97,12.0,24,operating,Negative energy
+4969,1,1243,2024-07-26,-662.396,40.54,12.0,26,operating,Negative energy
+525,90525,132,2024-01-22,1003.864,48.35,12.0,25,operating,Unknown asset
+589,90589,148,2024-01-25,1169.764,50.17,12.0,36,operating,Unknown asset
+7484,20,1871,2024-11-07,-1290.54,48.88,12.0,17,operating,Negative energy
+7508,20,1877,2024-11-08,99999.0,46.07,12.0,18,operating,Above daily physical bound
+777,9,195,2024-02-02,99999.0,42.17,12.0,19,operating,Above daily physical bound
+9177,99177,2295,2025-01-17,730.22,44.91,12.0,8,operating,Unknown asset
+9241,1,2311,2025-01-20,-887.726,49.23,12.0,24,operating,Negative energy
+944,8,236,2024-02-09,-702.853,47.25,12.0,43,operating,Negative energy
+9768,24,2442,2025-02-10,99999.0,50.79,12.0,46,operating,Above daily physical bound
+9844,4,2461,2025-02-14,-1197.665,49.65,12.0,2,operating,Negative energy

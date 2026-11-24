@@ -1,0 +1,3 @@
+weather_band,expected_days,energy_readings,matched_days,energy_coverage,matched_coverage
+Heavy rain >15mm,1348,1283,1249,95.17804154302671,92.65578635014836
+Other days,16196,15987,15864,98.7095579155347,97.95011113855273

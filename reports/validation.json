@@ -1,0 +1,23 @@
+{
+  "raw_readings": 17664,
+  "duplicates_removed": 120,
+  "clean_counts": {
+    "sites": 6,
+    "assets": 24,
+    "weather": 4386,
+    "readings": 17504,
+    "events": 1232,
+    "quarantine": 40,
+    "daily_mart": 17544
+  },
+  "validation_failures": {
+    "asset_fk": 0,
+    "events_fk": 0,
+    "event_hours": 0,
+    "hours_reconcile": 0,
+    "zero_hours_energy": 0,
+    "date_and_status": 0,
+    "grid_count": 0,
+    "raw_reconciliation": 0
+  }
+}

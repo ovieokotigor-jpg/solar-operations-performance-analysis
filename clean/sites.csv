@@ -1,0 +1,7 @@
+site_id,site_name,region,cleaning_interval_days
+1,HelioWorks Site 1,Coastal,30
+2,HelioWorks Site 2,Coastal,45
+3,HelioWorks Site 3,Savanna,30
+4,HelioWorks Site 4,Savanna,60
+5,HelioWorks Site 5,Dry inland,30
+6,HelioWorks Site 6,Dry inland,60
